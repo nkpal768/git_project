@@ -35,4 +35,4 @@ exit 0
 
 
 #echo "innoeye648" | sudo -S sh /home/ist/nitin/script/ClearRAM.sh
-#Modification done here for git
+
